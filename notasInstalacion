@@ -1,0 +1,8 @@
+1. Dirigirse a la carpeta y aperturar un terminal.
+2. npm create vite@latest
+3. npm install (Instalar Librerias - Similar a venv de python ) 
+
+
+4. npm run dev
+
+5. Deploy GitHub https://github.com/gitname/react-gh-pages
